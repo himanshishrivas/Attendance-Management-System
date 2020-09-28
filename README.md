@@ -10,7 +10,7 @@ You need following libraries pre-installed on your system:
 
 HOW TO USE:
 
-1. Save images of people as '1.jpg','2.jpg'...... numbers being the roll numbers of the person!(here in valid_images folder) 
+1. Save images of people as '1.jpg','2.jpg'...... numbers being the roll numbers of the person. 
 2. Run the program.
 3. An excel file will be created, marked with the attendance for the faces it recognised.
 Keep all the images and the python script in the same folder as well as run the python script for the same folder.
